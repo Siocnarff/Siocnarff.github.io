@@ -1,32 +1,36 @@
-## Welcome to GitHub Pages
+## Welcome fair traveller!
 
-You can use the [editor on GitHub](https://github.com/Siocnarff/Siocnarff.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+This is my profile. 
+There is not much here yet, because I am busy actually building cool things that I can tell you all about here in the future.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### But who am I?
+
+I am a South African Computer Scientist in the making with a love for building large complex systems, as well as for trying to grasp the meaning of live, and lift well, in a good, honourable manner. 
 
 ```markdown
-Syntax highlighted code block
+I can fill some more stuff in here
 
-# Header 1
-## Header 2
-### Header 3
+# Thing
+## A less important thing
+### A throwaway section listing things
 
-- Bulleted
-- List
+- Hitory
+- Philosophy
+- Theology
 
-1. Numbered
-2. List
+Small (and large) things I Love
+
+2. Books
+3. The Great Outdoor
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://i.ibb.co/prR9LTb/Josuabotha.png)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Keeping For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
