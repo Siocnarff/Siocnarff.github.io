@@ -27,7 +27,7 @@ Small (and large) things I Love
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://i.ibb.co/prR9LTb/Josuabotha.png)
+[Link](https://i.ibb.co/prR9LTb/Josuabotha.png) and ![Image](src)
 ```
 
 Keeping For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
