@@ -7,4 +7,4 @@ There is not much here yet, because I am busy actually building cool things that
 
 ### But who am I?
 
-I am a South African Computer Scientist in the making with a love for building large complex systems, as well as for trying to grasp the meaning of live, and lift well, in a good, honourable manner. 
+I am a South African Computer Scientist in the making with a love. I rather like building large complex systems, as well as for trying to grasp the meaning of live, and how to live well. 
